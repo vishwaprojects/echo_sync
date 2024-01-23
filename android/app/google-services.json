@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "999520997842",
+    "project_id": "television-36454",
+    "storage_bucket": "television-36454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999520997842:android:66e6a80a61f6639d45380b",
+        "android_client_info": {
+          "package_name": "com.example.music_player_intern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCc5YO_weTunJ-el_aWeNSWjG6fyuBKms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999520997842:android:4035aba3ad0a735245380b",
+        "android_client_info": {
+          "package_name": "com.example.our_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCc5YO_weTunJ-el_aWeNSWjG6fyuBKms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999520997842:android:08f1291103dbbb0d45380b",
+        "android_client_info": {
+          "package_name": "com.example.television"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCc5YO_weTunJ-el_aWeNSWjG6fyuBKms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
